@@ -22,7 +22,7 @@ ini_set('display_errors', 1);
 ini_set('max_execution_time', 0);
 ignore_user_abort(true); 
 
-define('PKG_NAME', 'mysnapshot');
+define('PKG_NAME', '_mySnapshot');
 /*define('PKG_VERSION', '1.0.0');
 define('PKG_RELEASE', 'beta');*/
 
