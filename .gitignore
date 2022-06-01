@@ -1,0 +1,14 @@
+# ignore all except snapshot
+/*
+!.gitignore
+!/core
+
+/core/*
+!/core/packages/
+
+/core/packages/*
+!/core/packages/_mysnapshot*.zip
+
+# except files
+!readme.md
+!/vapor/
